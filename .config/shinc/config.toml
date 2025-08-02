@@ -1,0 +1,7 @@
+[project]
+name = "shinc-template"
+version = "1.0.0"
+description = "Template project using shinc as a build system — for minimal, portable bash-based applications."
+homepage = "https://github.com/druagoon/shinc-template"
+repository = "https://github.com/druagoon/shinc-template"
+license = "MIT"
